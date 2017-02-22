@@ -1,0 +1,9 @@
+{
+  "name": "jQuery-Font-Chooser",
+  "version": "0.1.0",
+  "description": "A custom combo box to allow font selection from a preset list, whilst previewing the font",
+  "main": "src/jquery.fontselector.js",
+  "repository": "git@github.com:Rebelmail/jQuery-Font-Chooser.git",
+  "author": "Chris Dyer <contact@chrisdyer.info>",
+  "license": "MIT"
+}
